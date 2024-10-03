@@ -1,4 +1,4 @@
-## Hello!:sunny:
+## Hello!
 **I'am an junior Golang Web Developer** 
 
 I have some pet projects here, so check it out!:eyes:
