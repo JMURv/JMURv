@@ -1,5 +1,5 @@
 ## Hello!:sunny:
-**I'am an junior Python Web Developer** 
+**I'am an junior Golang Web Developer** 
 
 I have some pet projects here, so check it out!:eyes:
 
