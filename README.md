@@ -1,9 +1,9 @@
 ## Hello!
-**I'am an junior Golang Web Developer** 
+**I'am a Golang Web Developer** 
 
 I have some pet projects here, so check it out!:eyes:
 
-You can text me by E-Mail or Telegram: architect.lock@outlook.com, @JMURv
+You can text me by E-Mail or Telegram: jmurvz@outlook.com, @JMURv
 
 
 <!--
